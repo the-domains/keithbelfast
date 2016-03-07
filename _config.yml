@@ -1,0 +1,28 @@
+name: keithbelfast
+favicon: null
+layout_spectrum: 0.2570666540414095
+typography_spectrum: 0.57739501981996
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7662629289552569
+  lightness: 0.8583924563135952
+  saturation: 0.4494664715602994
+  rhythmicContrast: 0.2747380738146603
+purpose: []
