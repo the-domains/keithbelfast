@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T11:18:21.095Z'
-dateModified: '2016-03-07T11:18:13.005Z'
+datePublished: '2016-03-07T11:20:54.300Z'
+dateModified: '2016-03-07T11:20:42.488Z'
 title: UUP support remaining in the European Union
 author: []
 sourcePath: _posts/2016-03-07-uup-support-remaining-in-the-european-union.md
@@ -26,4 +26,6 @@ _type: Article
 
 # UUP support remaining in the European Union
 
-Slugger O'Toole cover the UUP's stance on \#Brexit
+Slugger O'Toole cover the [UUP's stance on \#Brexit][0]
+
+[0]: null
